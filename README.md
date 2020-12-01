@@ -9,4 +9,4 @@ Resultados.xlsx, muestra los resultados obtenidos del rendimiento de los modelos
 
 primera versión: 1 de NOV de 2020
 
-última actualziación: 1 de DIC de 2020
+última actualización: 1 de DIC de 2020
