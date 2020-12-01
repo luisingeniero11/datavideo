@@ -7,5 +7,6 @@ Datavideo.py, es un codigo que prueba diferentes algoritmos de machine learning 
 
 Resultados.xlsx, muestra los resultados obtenidos del rendimiento de los modelos
 
-primera versión: 1 de nov de 2020
-última actualziación: 1 de dic de 2020
+primera versión: 1 de NOV de 2020
+
+última actualziación: 1 de DIC de 2020
