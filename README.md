@@ -6,3 +6,6 @@ Datavideo.csv, es un dataset que contine 1200 instancias de flujos, 400 de servi
 Datavideo.py, es un codigo que prueba diferentes algoritmos de machine learning para la clasficiaccion de los flujos de vídeo presentes es datavideo.csv.
 
 Resultados.xlsx, muestra los resultados obtenidos del rendimiento de los modelos
+
+primera versión: 1 de nov de 2020
+última actualziación: 1 de dic de 2020
